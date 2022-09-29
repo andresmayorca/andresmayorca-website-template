@@ -1,19 +1,25 @@
 {
   "name": "andresmayorca-website-template",
-  "version": "1.0.0",
-  "description": "This is the template of Andres Mayorca portfolio and personal page.",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andresmayorca/andresmayorca-website-template.git"
+  "dependencies": {
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.0",
+    "react-icons": "^4.2.0"
   },
-  "author": "Andres Mayorca",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/andresmayorca/andresmayorca-website-template/issues"
-  },
-  "homepage": "https://github.com/andresmayorca/andresmayorca-website-template#readme"
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.1",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
 }

@@ -12,8 +12,8 @@ const About = () => {
                <h1 class="text-gray-300 text-3xl font-bold">About me</h1>   
             </div>
             <div class="cursor-default text-white prose-a:text-white w-full">
-              <p class="text-lg">About you and your skills
-              <br /> More...
+              <p class="text-lg">About you.
+              <br /> More about You.
               </p>
             </div>
             </div>

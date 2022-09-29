@@ -21,7 +21,7 @@ const Content = () => {
                <h1 class="text-gray-300 text-3xl font-bold">Know more about me</h1>   
             </div>
             <div class="prose text-white prose-a:text-white">
-                <p>A little introduction about you...</p>
+                <p>An introduction about you and your skills</p>
             </div>
         </div></a>
         </Link>
@@ -39,20 +39,6 @@ const Content = () => {
             </div>
         </div></a>
         </Link>
-
-        {/* <Link href="https://worldcoin.org/?ref=miguel" target="_blank" class="group h-full w-full bg-neutral-700 hover:bg-sky-500 hover:ring-sky-500 hover:rotate-6 hover:ease-in-out duration-300 block rounded-lg text-white p-6 shadow" rel="noreferrer">
-        <div class="flex flex-col items-center space-y-6">
-            <div>
-                <AiFillTwitterSquare size="3rem" />
-            </div>
-            <div>
-               <h1 class="text-gray-300 text-3xl font-bold">Top Tweets</h1>   
-            </div>
-            <div class="prose text-white prose-a:text-white">
-                <p>Here are the best tweets and threads I&apos;ve written, personal, professional and educational tweets...</p>
-            </div>
-        </div>
-        </Link> */}
 
     </div>
     </ContentStyles>

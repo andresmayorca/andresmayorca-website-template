@@ -28,9 +28,9 @@ export default class MyDocument extends Document {
     }
   }
   render() {
-    const meta = {
+    const meta = { 
         title: 'Andres Mayorca Website Template',
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
         image: 'https://res.cloudinary.com/dcuvn2xsh/image/upload/v1663911849/Andres_Mayorca_ng1u4y.jpg',
       }
     return (

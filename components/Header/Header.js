@@ -10,7 +10,7 @@ const Header = () => {
               <h1 class="!mt-4 text-3xl font-semibold text-white dark:text-white md:hidden">Hi! I&apos;m your_name :D</h1>
             <div>
               <h1 class="text-3xl font-semibold hidden md:inline text-white">Hi! I&apos;m your_name :D</h1>
-              <p class="dark:text-white/80 text-lg max-w-lg">i&apos;m blockchain developer and Full stack developer.</p>
+              <p class="dark:text-white/80 text-lg max-w-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
               </div>
             </div>
           </div>
