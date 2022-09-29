@@ -1,0 +1,19 @@
+{
+  "name": "andresmayorca-website-template",
+  "version": "1.0.0",
+  "description": "This is the template of Andres Mayorca portfolio and personal page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresmayorca/andresmayorca-website-template.git"
+  },
+  "author": "Andres Mayorca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresmayorca/andresmayorca-website-template/issues"
+  },
+  "homepage": "https://github.com/andresmayorca/andresmayorca-website-template#readme"
+}
